@@ -1,0 +1,12 @@
+[submodule "apps/frappe"]
+	path = apps/frappe
+	url = https://github.com/frappe/frappe
+[submodule "apps/erpnext"]
+	path = apps/erpnext
+	url = https://github.com/frappe/erpnext
+[submodule "apps/hrms"]
+	path = apps/hrms
+	url = https://github.com/frappe/hrms
+[submodule "apps/payments"]
+	path = apps/payments
+	url = https://github.com/frappe/payments
